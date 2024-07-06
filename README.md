@@ -27,7 +27,8 @@ The script can solve your troubles!
 
 ## Usage
 1. Ensure Python 3.x is installed on your system.
-2. Save this script as a `.py` file, for example, `wechat.py`.
+2. Save this script as a `.py` file,
+   for example, `wechat.py`.
 3. Open Command Prompt or PowerShell and navigate to the directory where the script is located.
 4. Run the script:
 python wechat.py
