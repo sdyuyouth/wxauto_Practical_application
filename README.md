@@ -41,3 +41,11 @@ python wechat.py
 3、Specify the path of an excel table, enter the list of completed students in the table, the column title must be "name", if there is a table header, please set header=1, if not, change to 0
 
 4、Enter the message you want to send when prompted
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Disclaimer
+
+This script is for educational and research purposes only. Please ensure you comply with all applicable laws and regulations when using it. The author assumes no responsibility for any loss or damage caused during its use.
