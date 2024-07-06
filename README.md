@@ -8,7 +8,7 @@ It takes a lot of time and energy to remind each student who has not completed a
 
 The script can solve your troubles!
 
-(Thanks to the open source predecessors, this script relies on the wxauto library, please refer to the details：)
+(Thanks to the open source predecessors, this script relies on the wxauto library, please refer to the details：https://github.com/cluic/wxauto.git)
 
 
 ## Features
