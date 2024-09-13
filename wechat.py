@@ -29,7 +29,7 @@ uncompleted_names_set = all_names_set - completed_names_set
 # 将结果转换回列表
 uncompleted_names = list(uncompleted_names_set)
 
-print(uncompleted_names)
+print("未完成人员：", uncompleted_names)
 
 # 要发送的消息
 message = input("请输入要发送的消息：")
